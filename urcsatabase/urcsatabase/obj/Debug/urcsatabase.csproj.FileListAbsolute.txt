@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\MainWindow.g.cs
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\App.g.cs
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase_MarkupCompile.cache
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase_MarkupCompile.lref
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\bin\Debug\urcsatabase.exe.config
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\bin\Debug\urcsatabase.exe
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\bin\Debug\urcsatabase.pdb
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\MainWindow.baml
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase.g.resources
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase.Properties.Resources.resources
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase.exe
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase.pdb
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\urcsatabase\urcsatabase\obj\Debug\urcsatabase_Content.g.cs
